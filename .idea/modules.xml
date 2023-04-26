@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/QRGenerator-master.iml" filepath="$PROJECT_DIR$/.idea/modules/QRGenerator-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/QRGenearator/QRGenerator-master.QRGenearator.iml" filepath="$PROJECT_DIR$/.idea/modules/QRGenearator/QRGenerator-master.QRGenearator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/QRGenearator/QRGenerator-master.QRGenearator.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/QRGenearator/QRGenerator-master.QRGenearator.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/QRGenearator/QRGenerator-master.QRGenearator.main.iml" filepath="$PROJECT_DIR$/.idea/modules/QRGenearator/QRGenerator-master.QRGenearator.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/QRGenearator/QRGenerator-master.QRGenearator.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/QRGenearator/QRGenerator-master.QRGenearator.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/QRGenerator-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/QRGenerator-master.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/QRGenerator-master.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/QRGenerator-master.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/QRGenerator-master.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/QRGenerator-master.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/QRGenerator-master.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/QRGenerator-master.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

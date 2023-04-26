@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">QRGeneratorandScanner</string>
+    <string name="save">Save</string>
+    <string name="generate">Generate</string>
+    <string name="enter_text">Enter Text</string>
+    <string name="value_required">Value Required</string>
+    <string name="app_id">ca-app-pub-5573923042925344~8079974809</string>
+    <string name="Inter_Ad">ca-app-pub-5573923042925344/4371829937</string>
+    <string name="title_activity_scan_qr">Scan_QR</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
